@@ -68,6 +68,8 @@
 .single-card img {
   width: 100%;
   height: auto;
+  border-radius: 100px;
+  overflow: hidden;
 }
 #output {
   justify-content: space-around;
